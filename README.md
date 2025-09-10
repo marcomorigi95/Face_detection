@@ -1,4 +1,4 @@
-# Face_detection
+# Face Detection
 
 ## Run the Project in Google Colab
 
